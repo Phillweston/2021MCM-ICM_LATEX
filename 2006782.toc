@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{3}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {1.2}Our work}{3}{subsection.0.1.2}%
+\contentsline {section}{\numberline {2}Preparation of the Models}{3}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1}Assumptions and Justifications}{3}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {2.2}Notations}{4}{subsection.0.2.2}%
+\contentsline {section}{\numberline {3}\textsc {Task 1: }Ball Passing Network Model}{4}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Construction of Ball Passing Network}{4}{subsection.0.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Ball Passing Network}{4}{subsubsection.0.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Determination of Network Parameter}{5}{subsubsection.0.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Identification of Network Patterns}{7}{subsection.0.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Team Formation}{7}{subsubsection.0.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Dyadic and Triadic Configurations}{7}{subsubsection.0.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Other Structural Indicators}{8}{subsection.0.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Time Scale}{8}{subsubsection.0.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Region Scale}{10}{subsubsection.0.3.3.2}%
+\contentsline {section}{\numberline {4}\textsc {Task 2: } Evaluation of Successful Teamwork}{11}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1}Identification of Performance Indicators}{11}{subsection.0.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Static Layer}{11}{subsubsection.0.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Dynamic Layer}{11}{subsubsection.0.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Evaluation model based on Adversarial Regression}{13}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {4.3}Application of Evaluation Model}{13}{subsection.0.4.3}%
+\contentsline {subsection}{\numberline {4.4}Discussion}{15}{subsection.0.4.4}%
+\contentsline {section}{\numberline {5}\textsc {Task 3: }Advice on Improving Team Success}{16}{section.0.5}%
+\contentsline {subsection}{\numberline {5.1}Structural Strategy Analysis}{16}{subsection.0.5.1}%
+\contentsline {subsection}{\numberline {5.2}Comparison with \textit {Italy National Team}}{17}{subsection.0.5.2}%
+\contentsline {subsection}{\numberline {5.3}Advise on next Season}{18}{subsection.0.5.3}%
+\contentsline {section}{\numberline {6}\textsc {Task 4}: How to Design more Effective Teams}{19}{section.0.6}%
+\contentsline {subsection}{\numberline {6.1}Generalization of our Model}{19}{subsection.0.6.1}%
+\contentsline {subsection}{\numberline {6.2}Other Aspects}{20}{subsection.0.6.2}%
+\contentsline {section}{\numberline {7}Analysis on Model's Sensitivity}{20}{section.0.7}%
+\contentsline {subsection}{\numberline {7.1}Evaluation Model sensitivity to \textit {Draw} situations}{20}{subsection.0.7.1}%
+\contentsline {subsection}{\numberline {7.2}Analysis on performance indicator \textit {Tempo}}{21}{subsection.0.7.2}%
+\contentsline {section}{\numberline {8}Strengths and Weaknesses}{22}{section.0.8}%
+\contentsline {subsection}{\numberline {8.1}Strengths}{22}{subsection.0.8.1}%
+\contentsline {subsection}{\numberline {8.2}Weaknesses}{22}{subsection.0.8.2}%
+\contentsline {section}{References}{23}{section.0.9}%
+\contentsline {section}{Appendix: Code}{24}{section*.20}%
+\contentsfinish 

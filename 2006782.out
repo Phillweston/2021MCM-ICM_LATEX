@@ -1,0 +1,38 @@
+\BOOKMARK [1][-]{section.0.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.0.1.1}{Problem Background}{section.0.1}% 2
+\BOOKMARK [2][-]{subsection.0.1.2}{Our work}{section.0.1}% 3
+\BOOKMARK [1][-]{section.0.2}{Preparation of the Models}{}% 4
+\BOOKMARK [2][-]{subsection.0.2.1}{Assumptions and Justifications}{section.0.2}% 5
+\BOOKMARK [2][-]{subsection.0.2.2}{Notations}{section.0.2}% 6
+\BOOKMARK [1][-]{section.0.3}{Task 1: Ball Passing Network Model}{}% 7
+\BOOKMARK [2][-]{subsection.0.3.1}{Construction of Ball Passing Network}{section.0.3}% 8
+\BOOKMARK [3][-]{subsubsection.0.3.1.1}{Ball Passing Network}{subsection.0.3.1}% 9
+\BOOKMARK [3][-]{subsubsection.0.3.1.2}{Determination of Network Parameter}{subsection.0.3.1}% 10
+\BOOKMARK [2][-]{subsection.0.3.2}{Identification of Network Patterns}{section.0.3}% 11
+\BOOKMARK [3][-]{subsubsection.0.3.2.1}{Team Formation}{subsection.0.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.0.3.2.2}{Dyadic and Triadic Configurations}{subsection.0.3.2}% 13
+\BOOKMARK [2][-]{subsection.0.3.3}{Other Structural Indicators}{section.0.3}% 14
+\BOOKMARK [3][-]{subsubsection.0.3.3.1}{Time Scale}{subsection.0.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.0.3.3.2}{Region Scale}{subsection.0.3.3}% 16
+\BOOKMARK [1][-]{section.0.4}{Task 2: \040Evaluation of Successful Teamwork}{}% 17
+\BOOKMARK [2][-]{subsection.0.4.1}{Identification of Performance Indicators}{section.0.4}% 18
+\BOOKMARK [3][-]{subsubsection.0.4.1.1}{Static Layer}{subsection.0.4.1}% 19
+\BOOKMARK [3][-]{subsubsection.0.4.1.2}{Dynamic Layer}{subsection.0.4.1}% 20
+\BOOKMARK [2][-]{subsection.0.4.2}{Evaluation model based on Adversarial Regression}{section.0.4}% 21
+\BOOKMARK [2][-]{subsection.0.4.3}{Application of Evaluation Model}{section.0.4}% 22
+\BOOKMARK [2][-]{subsection.0.4.4}{Discussion}{section.0.4}% 23
+\BOOKMARK [1][-]{section.0.5}{Task 3: Advice on Improving Team Success}{}% 24
+\BOOKMARK [2][-]{subsection.0.5.1}{Structural Strategy Analysis}{section.0.5}% 25
+\BOOKMARK [2][-]{subsection.0.5.2}{Comparison with Italy National Team}{section.0.5}% 26
+\BOOKMARK [2][-]{subsection.0.5.3}{Advise on next Season}{section.0.5}% 27
+\BOOKMARK [1][-]{section.0.6}{Task 4: How to Design more Effective Teams}{}% 28
+\BOOKMARK [2][-]{subsection.0.6.1}{Generalization of our Model}{section.0.6}% 29
+\BOOKMARK [2][-]{subsection.0.6.2}{Other Aspects}{section.0.6}% 30
+\BOOKMARK [1][-]{section.0.7}{Analysis on Model's Sensitivity}{}% 31
+\BOOKMARK [2][-]{subsection.0.7.1}{Evaluation Model sensitivity to Draw situations}{section.0.7}% 32
+\BOOKMARK [2][-]{subsection.0.7.2}{Analysis on performance indicator Tempo}{section.0.7}% 33
+\BOOKMARK [1][-]{section.0.8}{Strengths and Weaknesses}{}% 34
+\BOOKMARK [2][-]{subsection.0.8.1}{Strengths}{section.0.8}% 35
+\BOOKMARK [2][-]{subsection.0.8.2}{Weaknesses}{section.0.8}% 36
+\BOOKMARK [1][-]{section.0.9}{References}{}% 37
+\BOOKMARK [1][-]{section*.20}{Appendix: Code}{}% 38
